@@ -5496,7 +5496,7 @@
    "Month": 11,
    "Date": "01-Nov-24",
    "Fajr": "6:33",
-   "FajrIqama": "7:00",
+   "FajrIqama": "6:45",
    "Sunrise": "8:06",
    "Dhuhr": "1:21",
    "DhuhrIqama": "2:00",
@@ -5504,7 +5504,7 @@
    "AsrIqama": "4:30",
    "Maghrib": "6:28",
    "MaghribIqama": "6:33",
-   "Isha": "7:50",
+   "Isha": "7:42",
    "IshaIqama": "8:15"
  },
  {
@@ -5522,7 +5522,7 @@
    "AsrIqama": "4:30",
    "Maghrib": "6:27",
    "MaghribIqama": "6:32",
-   "Isha": "7:49",
+   "Isha": "7:41",
    "IshaIqama": "8:15"
  },
  {
@@ -5537,10 +5537,10 @@
    "Dhuhr": "12:21",
    "DhuhrIqama": "1:00",
    "Asr": "2:59",
-   "AsrIqama": "4:30",
+   "AsrIqama": "3:30",
    "Maghrib": "5:25",
    "MaghribIqama": "5:30",
-   "Isha": "6:48",
+   "Isha": "6:39",
    "IshaIqama": "7:15"
  },
  {
@@ -5555,10 +5555,10 @@
    "Dhuhr": "12:21",
    "DhuhrIqama": "1:00",
    "Asr": "2:58",
-   "AsrIqama": "4:30",
+   "AsrIqama": "3:30",
    "Maghrib": "5:24",
    "MaghribIqama": "5:29",
-   "Isha": "6:47",
+   "Isha": "6:38",
    "IshaIqama": "7:15"
  },
  {
